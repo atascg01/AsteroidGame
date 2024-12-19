@@ -25,7 +25,7 @@ treasure_img = pygame.image.load('treasure.jpg')
 enemy_size = 50
 enemy_x = enemy_size
 enemy_y = enemy_size
-enemy_speed = 2
+enemy_speed = 3
 
 # [ [0, 0, up], [100, 50, down] ]
 bullets = []
